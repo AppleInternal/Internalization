@@ -10,7 +10,7 @@ Turn any iOS build into InternalUI build
 7) Add string with name "ReleaseType"
 8) Set string value to "Internal" 
 9) Save plist file
-10) To make apps open run "sudo chmod -R 777 /AppleInternal
+10) To make apps open run "sudo chmod -R 777 /AppleInternal"
 11) On iOS 15+ apps require to resign with ldid
 # Done!
 Internal package is from build 17A508 (for TouchID iPhones, for X will be uploaded soon, on X you can use old one too)
